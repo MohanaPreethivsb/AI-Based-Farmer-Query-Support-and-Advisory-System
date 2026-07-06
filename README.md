@@ -46,26 +46,31 @@ This project was developed as an academic full-stack application using **Spring 
 
 ## 📁 Project Structure
 
+## 📁 Project Structure
+
+```text
 AI-Based-Farmer-Query-Support-and-Advisory-System
 │
 ├── backend/
 │   ├── src/
 │   │   ├── main/
-│   │   │   ├── java/com/farmer/advisory/      # Controller, Service, Repository layers
-│   │   │   └── resources/                     # application.properties, email templates
-│   └── pom.xml                                # Maven dependencies
+│   │   │   ├── java/com/farmadvisory/
+│   │   │   └── resources/
+│   └── pom.xml
 │
 ├── frontend/
 │   ├── src/
-│   │   ├── components/                        # Reusable UI elements (Navbar, Sidebar, etc.)
-│   │   ├── pages/                             # Dashboard, Chat, Profile, Login/Signup
+│   │   ├── components/
+│   │   ├── pages/
 │   │   ├── App.jsx
 │   │   └── main.jsx
-│   ├── package.json                           # Node.js dependencies
-│   └── vite.config.js                         # Vite configuration
+│   ├── package.json
+│   └── vite.config.js
+│
+├── database/
 │
 └── README.md
-
+```
 ---
 
 ## ⚙️ Getting Started
