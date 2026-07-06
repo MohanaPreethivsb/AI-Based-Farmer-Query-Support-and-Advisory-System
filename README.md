@@ -42,7 +42,6 @@ This project was developed as an academic full-stack application using **Spring 
 *   **Integrations:** OpenWeatherMap API (or custom Weather API Provider), JavaMailSender (SMTP)
 
 ---
----
 
 ## 📁 Project Structure
 
