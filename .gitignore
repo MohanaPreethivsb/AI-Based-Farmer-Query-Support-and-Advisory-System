@@ -1,0 +1,50 @@
+node_modules/
+dist/
+.env
+.env.local
+npm-debug.log*
+*.log
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+
+# Additional build artifacts
+build/
+.next/
+out/
+
+# Environment files (examples and local overrides)
+.env.development.local
+.env.production.local
+.env.test.local
+.env.*.local
+
+# Node / frontend
+/.parcel-cache
+coverage/
+
+# Docker
+docker-compose.override.yml
+
+# Logs and runtime
+logs/
+*.log
+
+# Maven wrapper
+.mvn/
+
+# Package manager lockfiles (do not ignore package-lock.json or yarn.lock by policy)
+# Keep lockfiles tracked: package-lock.json, yarn.lock, pnpm-lock.yaml

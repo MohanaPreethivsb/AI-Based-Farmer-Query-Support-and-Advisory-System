@@ -1,0 +1,117 @@
+# Java
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.log
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+
+# Maven
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+*.pid
+out/
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+
+# IDE - Visual Studio Code
+.vscode/
+*.code-workspace
+
+# IDE - Others
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+.classpath
+.c9/
+*.sublime-workspace
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.production.local
+.env.test.local
+
+# Uploads
+uploads/
+*.tmp
+*.temp
+
+# Dependencies
+.m2/
+node_modules/
+
+# Build
+build/
+dist/
+
+# Common generated folders
+coverage/
+.parcel-cache/
+
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime
+.springBoot
+spring-boot-devtools.properties
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Certificates
+*.pem
+*.key
+*.p12
+*.jks
+*.cert
+*.crt
+
+# Miscellaneous
+.gradle/
+.project
+.pydevproject
+.settings
+*.sublime-project
+*.sublime-workspace
+test-output/
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+mvnw
+mvnw.cmd
