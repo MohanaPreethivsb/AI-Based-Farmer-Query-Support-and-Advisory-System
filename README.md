@@ -46,8 +46,6 @@ This project was developed as an academic full-stack application using **Spring 
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 ```text
 AI-Based-Farmer-Query-Support-and-Advisory-System
 │
